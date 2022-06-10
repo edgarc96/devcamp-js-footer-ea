@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer-ea",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarc96/devcamp-js-footer-ea.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Edgar <edgarcabrera33@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edgarc96/devcamp-js-footer-ea/issues"
+  },
+  "homepage": "https://github.com/edgarc96/devcamp-js-footer-ea#readme",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
